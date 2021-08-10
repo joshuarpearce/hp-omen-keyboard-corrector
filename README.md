@@ -1,1 +1,1 @@
-HP Omem laptops have a tenkeyless design keyboard, however the delete button is in the wrong place. I have found solutions to swap keys around to regain standard delete functionality, so far in [windows](windows) and [linux](linux/README.md).
+HP Omen laptops have a tenkeyless design keyboard, however the delete button is in the wrong place. I have found solutions to swap keys around to regain standard delete functionality, so far in [windows](windows) and [linux](linux/README.md).
